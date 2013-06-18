@@ -2,8 +2,8 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2012120100;
-$plugin->release   = '2.3, release candidate 1';
+$plugin->version   = 2013061800;
+$plugin->release   = '2.3, rc 2';
 $plugin->requires  = 2012062500.00; // Moodle 2.3.0
 $plugin->component = 'block_majhub_voting';
 
